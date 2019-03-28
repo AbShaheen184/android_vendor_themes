@@ -5,6 +5,6 @@
     <color name="theme_background_shady">#ff1744</color>
     <color name="theme_background_glassy">#aeff1744</color>
     <color name="theme_notification_background_glassy">#aeff1744</color>
-    <color name="theme_notification_background_shady">#ffff1744</color>
+    <color name="theme_notification_background_shady">#ff1744</color>
 
 </resources>

@@ -14,13 +14,6 @@ PRODUCT_PACKAGES += \
     SystemUIShady \
     WellbeingShady
 
-# Transparent themes
-PRODUCT_PACKAGES += \
-    SettingsTransparent \
-    SettingsIntelligenceTransparent \
-    SystemTransparent \
-    SystemUITransparent \
-    WellbeingTransparenty
 
 # Glassy themes
 PRODUCT_PACKAGES += \
@@ -64,7 +57,9 @@ PRODUCT_PACKAGES += \
     ThemeBlack \
     ThemeAlmostBlack \
     ThemeDarkAF \
-    ThemeWhite
+    ThemeWhite \
+    ThemeDesaturatedBlue
+
 # Accents
 PRODUCT_PACKAGES += \
     AccentAmber \
