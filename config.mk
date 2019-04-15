@@ -14,6 +14,7 @@ PRODUCT_PACKAGES += \
     SystemUIShady \
     WellbeingShady
 
+
 # Glassy themes
 PRODUCT_PACKAGES += \
     SettingsGlassy \
@@ -56,7 +57,10 @@ PRODUCT_PACKAGES += \
     ThemeBlack \
     ThemeAlmostBlack \
     ThemeDarkAF \
+    ThemeWhite \
+    ThemeDesaturatedBlue \
     ThemeBlackPearl
+
 
 # Accents
 PRODUCT_PACKAGES += \

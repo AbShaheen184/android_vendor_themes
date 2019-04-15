@@ -4,6 +4,7 @@
     <!-- Havoc Themes  -->
     <color name="theme_background_shady">#8e24aa</color>
     <color name="theme_background_glassy">#ae8e24aa</color>
+    <color name="theme_notification_background_glassy">#ae8e24aa</color>
     <color name="theme_notification_background_shady">#ff8e24aa</color>
 
 </resources>
